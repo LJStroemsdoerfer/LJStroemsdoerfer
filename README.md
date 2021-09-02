@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @LJStroemsdoerfer
+👋 Hi, I’m @LJStroemsdoerfer
 
-
-<!---
-LJStroemsdoerfer/LJStroemsdoerfer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Data Scientist working @Mercedes-Benz AG. I am super excited about making Data Science more sustainable. To do that, I am developing novel DevOps approaches that make Data Scientist's lives easier and cling to the ways of the force in the Data Science field.
