@@ -2,8 +2,6 @@
 
 👋 Hi, I’m @LJStroemsdoerfer
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJStroemsdoerfer&layout=compact&card_width=250&langs_count=6&theme=vue-dark">
-
 <p> 
     I am a Data Scientist working @Mercedes-Benz AG.
     I am super excited about making Data Science more
@@ -11,3 +9,5 @@
     approaches that make Data Scientist's lives easier
     and cling to the ways of the force in the Data Science field.
 </p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJStroemsdoerfer&layout=compact&card_width=250&langs_count=6&theme=vue-dark">
