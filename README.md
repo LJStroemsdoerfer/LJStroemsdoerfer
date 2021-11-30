@@ -11,7 +11,6 @@
 
 👋 Hi, I’m @LJStroemsdoerfer
 
-s
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJStroemsdoerfer&layout=compact&card_width=250&langs_count=6&theme=vue-dark">
 
 <p> 
