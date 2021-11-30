@@ -1,13 +1,4 @@
-<style>
-  p {
-    width: 50%;
-    float: right;
-  }
-  img {
-    width: 50%;
-    float: left;
-  }
-</style>
+
 
 👋 Hi, I’m @LJStroemsdoerfer
 
