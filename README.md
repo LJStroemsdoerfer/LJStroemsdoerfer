@@ -4,16 +4,12 @@ I am a Data Scientist working @Mercedes-Benz AG. I am super excited about making
 
 <p align="center">
  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoffstadt&show_icons=true&count_private=true&show_icons=true&theme=radical">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LJStroemsdoeerfer&show_icons=true&count_private=true&show_icons=true&theme=radical">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoffstadt&layout=compact&card_width=250&langs_count=6&theme=radical">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJStroemsdoerfer&layout=compact&card_width=250&langs_count=6&theme=radical">
 
-<a href="https://github.com/hoffstadt/DearPyGui">
+<a href="https://github.com/LJStroemsdoerfer/productionize">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoffstadt&repo=DearPyGui&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LJStroemsdoerfer&repo=productionize&theme=radical" />
 </a>    
-<a href="https://github.com/hoffstadt/DearPy3D">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoffstadt&repo=DearPy3D&theme=radical" />
-</a> 
 </p>
