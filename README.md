@@ -1,10 +1,10 @@
 👋 Hi, I’m @LJStroemsdoerfer
 
 <div style="width: 40%; float:left">
-    I am a Data Scientist working @Mercedes-Benz AG.
-    I am super excited about making Data Science more
-    sustainable. To do that, I am developing novel DevOps
-    approaches that make Data Scientist's lives easier
+    I am a Data Scientist working @Mercedes-Benz AG. <br>
+    I am super excited about making Data Science more <br>
+    sustainable. To do that, I am developing novel DevOps <br>
+    approaches that make Data Scientist's lives easier <br>
     and cling to the ways of the force in the Data Science field.
 </div>
 
