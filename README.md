@@ -4,10 +4,6 @@ I am a Data Scientist working @Mercedes-Benz AG. I am super excited about making
 
 <p align="center">
  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJStroemsdoerfer&layout=compact&card_width=250&langs_count=6&theme=radical">
-
-<a href="https://github.com/LJStroemsdoerfer/productionize">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LJStroemsdoerfer&repo=productionize&theme=radical" />
-</a>    
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJStroemsdoerfer&layout=compact&card_width=250&langs_count=6&theme=vue-dark">
+  
 </p>
