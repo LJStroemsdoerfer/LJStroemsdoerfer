@@ -4,7 +4,7 @@
 
 
 <p> 
-    I am the Head of Data Science @Mercedes-Benz. I am mainly focused on bringing Data & Analytics solution into production to create sustainable and long-lasting value. To do that, I am translating Software Engineering best practices to Data Science.<br>
+    I am the Head of Data & Development @Mercedes-Benz. My team and I are building and running ML powered data applications.<br>
     <br>
     I use my private profile to play around with new tech, create some funny little programms or work on small Python libraries.
 </p>
